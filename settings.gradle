@@ -1,0 +1,2 @@
+include ':app', ':ebooksell2'
+rootProject.name='eBookSell'
